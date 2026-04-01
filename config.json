@@ -6,11 +6,11 @@
   },
   "assignments": [
     {
-      "id": "python-basics",
-      "title": "Python Basics",
-      "description": "Variables, data types, conditionals, and loops",
-      "path": "assignments/python-basics",
-      "dueDate": "2026-02-15",
+      "id": "python-classes",
+      "title": "Python Classes",
+      "description": "Defining and using classes in Python",
+      "path": "assignments/python-classes",
+      "dueDate": "2026-03-12",
       "attachments": [
         {
           "name": "Starter Code",
@@ -19,6 +19,20 @@
         }
       ]
     },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Design and implement RESTful APIs using the FastAPI framework in Python.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-04-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
     {
       "id": "games-in-python",
       "title": "Games in Python",
